@@ -1,2 +1,2 @@
-# np_pp_udl
+# NotePad ++ UserDefinedLanguagesFiles
 Userdefined languages for Notepad ++. Collected from various sources
